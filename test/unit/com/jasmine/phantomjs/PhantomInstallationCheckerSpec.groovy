@@ -13,7 +13,7 @@ class PhantomInstallationCheckerSpec extends Specification {
 	def "can determine when phantomjs if not properly installed"() {
 		given: 
 			phantomjsInstallationChecker.metaClass.phantomVerificationCommand = {
-				"bad_command"
+				"phantomjs_bad_name_to_force_an_error"
 			}
 			
 		expect: !phantomjsInstallationChecker.isProperlyInstalled()

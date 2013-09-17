@@ -1,0 +1,432 @@
+2013-09-17 12:00:06,621 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:00:06,626 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:00:06,640 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:00:06,640 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:00:06,647 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:00:06,647 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+phantomjsInstallationChecker.isProperlyInstalled()
+|                            |
+|                            false
+com.jasmine.phantomjs.PhantomInstallationChecker@24d3e83f
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine if phantomjs is properly installed(PhantomInstallationCheckerSpec.groovy:10)
+2013-09-17 12:03:59,565 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:03:59,571 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:03:59,590 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:03:59,590 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:03:59,606 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:03:59,606 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!phantomjsInstallationChecker.isProperlyInstalled()
+||                            |
+||                            true
+|com.jasmine.phantomjs.PhantomInstallationChecker@245f4ae
+false
+
+	at com.jasmine.phantomjs.PhantomInstallationCheckerSpec.can determine when phantomjs if not properly installed(PhantomInstallationCheckerSpec.groovy:19)
+2013-09-17 12:52:34,056 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:34,069 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:34,081 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:34,086 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:34,117 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:34,125 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.jasmine.phantomjs.SpecRunnerBuilder.createHtml() is applicable for argument types: () values: []
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:11)
+2013-09-17 12:52:53,188 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at groovy.util.XmlParser.parse(XmlParser.java:175)
+	at groovy.util.XmlParser.parseText(XmlParser.java:208)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:52:53,189 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:52:53,192 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:52:53,192 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:52:53,198 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:52:53,198 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:18)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:13)
+2013-09-17 12:55:50,347 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at groovy.util.XmlParser.parse(XmlParser.java:175)
+	at groovy.util.XmlParser.parseText(XmlParser.java:208)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:55:50,349 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:55:50,351 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:55:50,351 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:55:50,358 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:55:50,358 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:19)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,590 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at groovy.util.XmlParser.parse(XmlParser.java:175)
+	at groovy.util.XmlParser.parseText(XmlParser.java:208)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,591 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,594 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,594 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,599 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,599 [main] ERROR StackTrace  - Full Stack Trace:
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.isWellFormed(SpecRunnerBuilderSpec.groovy:22)
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.build a well formed html file(SpecRunnerBuilderSpec.groovy:10)
+2013-09-17 12:59:14,614 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 12:59:14,616 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 12:59:14,629 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 12:59:14,629 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 12:59:14,630 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 12:59:14,630 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains('jasmine.js')
+|             |
+|             false
+ 
+			<html>
+				<head></head>
+				<body></body>
+			
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine script(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,955 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,960 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,983 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,983 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,990 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)
+2013-09-17 13:02:49,990 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+htmlGenerated.contains("src='lib/jasmine-1.3.1/jasmine.js'")
+|             |
+|             false
+ 
+			<html>
+				<head>
+					<script type='text/javascript' src='lib/j asmine-1.3.1/jasmine.js'></script>
+  					<script type='text/javascript' src='lib/jasmine-1.3.1/jasmine-html.js'></script>
+				</head>
+				<body></body>
+			</html>
+		
+
+	at com.jasmine.phantomjs.SpecRunnerBuilderSpec.the html include referentes to the jasmine scripts(SpecRunnerBuilderSpec.groovy:16)

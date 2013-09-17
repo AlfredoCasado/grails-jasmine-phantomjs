@@ -4,7 +4,7 @@ class PhantomInstallationChecker {
 
 	def isProperlyInstalled() {
 		try {
-			phantomCommand().execute()
+			phantomVerificationCommand().execute()
 			return true
 		} catch(all) {
 			println 	"""
@@ -16,6 +16,6 @@ class PhantomInstallationChecker {
 		}
 	}	
 
-	def phantomVerificationCommand() { "phantomjs -v" } 
+	private phantomVerificationCommand() { "phantomjs -v" } 
 
 }
